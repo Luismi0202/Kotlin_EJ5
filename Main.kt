@@ -35,6 +35,7 @@ fun main(){
     println(tiempo2.esMayorQue(tiempo1))
     println(tiempo1.esMenorQue(tiempo2))
     println(tiempo1.copiar())
+    println(tiempo1.copiar(tiempo2))
     println(tiempo1.sumar(tiempo2))
     println(tiempo1.restar(tiempo2))
 
